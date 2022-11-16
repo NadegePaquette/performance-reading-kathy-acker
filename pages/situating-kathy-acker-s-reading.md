@@ -5,6 +5,7 @@ permalink: situating-kathy-acker-s-reading
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+text by Nadège Paquette
 
 This artifact is a video recording of a performance reading given by Kathy Acker at the Montreal bar Foufounes Électriques in 1986. The recording is part of the Alan Lord fonds and the video and audio tapes are held at Concordia University’s Special Collections. The recording is split in two parts. In the first, Acker reads two excerpts from her novel *Empire of the Senseless* published two years later. In the second, the camera is reopened to capture what appears to be an encore. I am interested in this second segment where the presence of the crowd is more felt and heard then it was in the first part. 
 
