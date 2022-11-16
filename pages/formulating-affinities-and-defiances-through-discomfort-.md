@@ -5,6 +5,7 @@ permalink: formulating-affinities-and-defiances-through-discomfort-
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+
 text by Nadège Paquette
 
 Here I would like to offer an analysis both on Acker’s performance and on the audience’s response to it. I am interested in “aurality,” how the audience listens, and in “orality,” how the audience speak back to the performance reading (MacArthur 43). I attempt to listen to the forms of listening and sounding of the crowd. Such listening is also feeling for embodiment and looking for situatedness. While I can situate Acker’s voice in a female queer bisexual white body located at the confluent of punk, feminist, avant-garde, and academic streams, I can only ask questions about the position of the members of the audience. 
