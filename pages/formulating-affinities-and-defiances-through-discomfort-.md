@@ -52,6 +52,8 @@ Chion, Michel. *L’audio-Vision : Son et Image Au Cinéma*. 4th Edition, Arma
 
 Eidsheim, Nina Sun. “Introduction: The Acousmatic Question: Who Is This?” *The Race of Sound*, Duke University Press, 2019, pp. 1–38. JSTOR, https://doi.org/10.2307/j.ctv11hpntq.4.  
 
+Goffman, Erving. *Forms of talk*. University of Pennsylvania Press, 1981, http://swbplus.bsz-bw.de/bsz031291961inh.htm. WorldCat.org.
+
 Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy Acker.” *Signs*, vol. 42, no. 1, 2016, pp. 175–97. WorldCat.org. 
 
 MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” *PMLA*, vol. 131, no. 1, 2016, pp. 38–63. WorldCat.org. 
