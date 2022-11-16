@@ -26,3 +26,17 @@ Radio-Canada’s report locates Acker’s performance at the confluence of many 
 ### Pornography and feminisms
 
 Later in this same Radio-Canada report, Acker is interviewed at the Foufs in front of a wall covered with graffiti where is written in big letters “NO PORN NO ART” ("Reportage Radio Canada"). The 1980s are years of internal conflict within different feminist movements that strongly disagree on the status of pornography both in the US and in Canada. Acker troubles the idea that feminism needs to get rid of pornography and of sex work with it. Acker appropriates the explicit and violent character of pornographic representations to dismantle binaries that uphold the norms producing gendered violence while claiming to prevent it (Ioanes 175). Her representation of sexuality follows her logic of contradiction according to which opposite terms are to be held together rather than being portrayed as mutually exclusive. In Acker’s novels, consent doesn’t exclude violence and there are no “good” or “bad” victims of sexual violence. Consent needs to be constantly renegotiated by her characters and by her readers and listeners (Ioanes 180, 183). 
+
+
+### Works Cited
+
+Acker, Kathy. *Empire of the Senseless*. 1988. Grove Press, 2018.  
+
+Goffman, Erving. *Forms of talk*. University of Pennsylvania Press, 1981, http://swbplus.bsz-bw.de/bsz031291961inh.htm. WorldCat.org.
+
+Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy Acker.” *Signs*, vol. 42, no. 1, 2016, pp. 175–97. WorldCat.org. 
+
+Palardy, Marianne. *Les Foufounes Électriques : de l’underground à l’overground, étude de cas d’une sous-culture urbaine de Montréal.* Université du Québec à Montréal, Aug. 2008.
+
+"Reportage Radio Canada Sur Kathy Acker". Directed by Radio Canada, 30 May 2016. *YouTube*, https://www.youtube.com/watch?v=fYn8lh86ILg.  
+ 
