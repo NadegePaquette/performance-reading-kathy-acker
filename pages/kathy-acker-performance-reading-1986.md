@@ -11,7 +11,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 text by Nadège Paquette
 
-This artifact is a video recording of a performance reading given by Kathy Acker at the Montreal bar Foufounes Électriques in 1986. The recording is part of the Alan Lord fonds and the video and audio tapes are held at Concordia University’s Special Collections. The recording is split in two parts. In the first, Acker reads two excerpts from her novel *Empire of the Senseless* published two years later. In the second, the camera is reopened to capture what appears to be an encore. I am interested in this second segment where the presence of the crowd is more felt and heard than it was in the first part. 
+This artifact is a video recording of a performance reading given by Kathy Acker at the Montreal bar Foufounes Électriques in 1986. The recording is part of the Alan Lord Collection and the video and audio tapes are held at Concordia University’s Special Collections. The recording is split in two parts. In the first, Acker reads two excerpts from her novel *Empire of the Senseless* published two years later. In the second, the camera is reopened to capture what appears to be an encore. I am interested in this second segment where the presence of the crowd is more felt and heard than it was in the first part. 
 
 ## Layers
 
@@ -20,7 +20,7 @@ I have divided my annotations into four layers: transcript, speaker, audience, a
 ## Context
 ### Les Foufounes Électriques
 
-First, I want to situate Acker’s performance within Montreal’s artistic scene in the 80s, within feminist debates about pornography, and within punk and avant-garde performances. Acker’s performance is part of the Tuesday series at Les Foufounes Électriques (also known as “Foufs”) presented by the short-lived magazine *L’Oeil rechargeable: L’organe de la nouvelle culture* and *Ultimatum*. During the 1980s and 1990s, the bar situated in the Faubourg Saint-Laurent neighborhood is considered a major part of Montreal’s underground scene where beatniks, hippies and punks meet to attend music shows and poetry readings (Palardy 16). It is thus an appropriate location to welcome Acker and her work which are characterized as shocking and scandalous by a Radio-Canada report announcing the event (“Reportage Radio Canada”). Alan Lord, representing Les Foufounes Électriques, is interviewed and describes Acker as the “priestess of the new Beat Generation \[and\] of the punk literatures.”
+First, I want to situate Acker’s performance within Montreal’s artistic scene in the 80s, within feminist debates about pornography, and within punk and avant-garde performances. Acker’s performance is part of the Tuesday series at Les Foufounes Électriques (also known as “Foufs”) presented by the short-lived magazine *L’Oeil rechargeable: L’organe de la nouvelle culture* and *Ultimatum*. During the 1980s and 1990s, the bar situated in the Faubourg Saint-Laurent neighborhood was considered a major part of Montreal’s underground scene where beatniks, hippies and punks meet to attend music shows and poetry readings (Palardy 16). It is thus an appropriate location to welcome Acker and her work which are characterized as shocking and scandalous by a Radio-Canada report announcing the event (“Reportage Radio Canada”). Alan Lord, representing Les Foufounes Électriques, is interviewed and describes Acker as the “priestess of the new Beat Generation \[and\] of the punk literatures.”
 
 ### Bilingualism and the "Two Solitudes"
 
